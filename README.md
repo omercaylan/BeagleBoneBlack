@@ -1,1 +1,3 @@
-#BeagleBone Black Kernel Development
+# BeagleBone Black Kernel Development
+# Basic Config for ardupilot
+# WSL
